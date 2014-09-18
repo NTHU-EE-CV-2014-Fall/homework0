@@ -9,4 +9,5 @@ At the sametime, it also helps me to know you a little bit more :)
 ## What do you want to achieve in the course? [ max 500 words]
 
 PS. 中文 or English are both fine.
+
 了解書中一些數學意義及基本的CV概念。
