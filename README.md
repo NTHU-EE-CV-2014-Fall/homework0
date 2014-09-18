@@ -3,6 +3,7 @@ This homework is simply used to check if all students know how to work with git 
 At the sametime, it also helps me to know you a little bit better :)
 
 ## Brief self-introduction [max 500 words]
+HI, 我是凡凱
 
 ## Why Computer Vision? [max 500 words]
 
