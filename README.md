@@ -4,7 +4,6 @@ At the sametime, it also helps me to know you a little bit better :)
 
 ## Brief self-introduction [max 500 words]
 HI, this is for testing ^__^
-
 and hi again
 
 ## Why Computer Vision? [max 500 words]
