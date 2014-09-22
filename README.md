@@ -3,7 +3,8 @@ This homework is simply used to check if all students know how to work with git 
 At the sametime, it also helps me to know you a little bit more :)
 
 ## Brief self-introduction [max 500 words]
-大學就讀於中山醫學大學醫學資訊學系，目前就讀於清華大學電機工程學系，22歲，三無男性。
+姓名：陳瑋晨，22歲，三無男性。
+大學就讀於中山醫學大學醫學資訊學系，目前就讀於清華大學電機工程學系，
 
 ## Why Computer Vision? [max 500 words]
 因為感覺很有趣。
