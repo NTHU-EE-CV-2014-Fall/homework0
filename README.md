@@ -3,7 +3,7 @@ This homework is simply used to check if all students know how to work with git 
 At the sametime, it also helps me to know you a little bit more :)
 
 ## Brief self-introduction [max 500 words]
-教授貴安,後輩是就讀於通訊所的碩一新生郭士鈞,目前於林嘉文 教授的實驗室鑽研Social Media 以及探索影像處理領域的奧妙
+教授貴安,後輩是就讀於通訊所的碩一新生,鑽研Social Media 以及探索影像處理領域的奧妙
 及學習在日後實際在社會上需要的能力以及應用
 
 
