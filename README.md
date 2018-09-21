@@ -3,7 +3,7 @@ This homework is simply used to check if all students know how to work with git 
 At the sametime, it also helps me to know you a little bit more :)
 
 ## Brief self-introduction [max 500 words]
-Hello Prof. Sun and TAs, I am a 
+Hello Prof. Sun and TAs, I am a senior in EE department. 
 ## Why Computer Vision? [max 500 words]
 AI is the trend of the world now. And CV is an important way that machines used to get informations around.   
 It can also be apllied in many field, such as photo synthesis or effects.
